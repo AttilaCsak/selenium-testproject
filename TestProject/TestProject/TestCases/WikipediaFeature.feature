@@ -14,3 +14,6 @@ When The 'Test automation - Wikipedia' page is opened
 	And I check the interface modul image on the page
 	And I open the 'Behavior driven development' page
 	And The 'Behavior-driven development - Wikipedia' page is opened
+
+
+Scenario: ComplexWikipediaPageTest
